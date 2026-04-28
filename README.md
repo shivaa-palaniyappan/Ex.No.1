@@ -72,7 +72,8 @@ Transformer LLMs are capable of unsupervised training, although a more precise e
 Unlike earlier recurrent neural networks (RNN) that sequentially process inputs, transformers process entire sequences in parallel. This allows the data scientists to use GPUs for training transformer-based LLMs, significantly reducing the training time.
 
 Transformer neural network architecture allows the use of very large models, often with hundreds of billions of parameters. Such large-scale models can ingest massive amounts of data, often from the internet, but also from sources such as the Common Crawl, which comprises more than 50 billion web pages, and Wikipedia, which has approximately 57 million pages.
-<img width="1200" height="627" alt="image" src="https://github.com/user-attachments/assets/b65437a8-e141-437e-a038-96f4ae8ad6fc" />
+<img width="2816" height="1324" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/b2e1e92d-d765-48ca-8a8c-4eb4aea0149a" />
+
 
 
 ## Build:
